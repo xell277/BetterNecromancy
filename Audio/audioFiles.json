@@ -1,0 +1,23 @@
+[
+  {
+    "clipCollectionName": "BetterNecromancy.ZombieAudio",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "path": "./Zombie1.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./Zombie2.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./Zombie3.ogg"
+      },
+      {
+        "audioGroup": "Effects",
+        "path": "./Zombie4.ogg"
+      }
+    ]
+  }
+]
