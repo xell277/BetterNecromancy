@@ -1,0 +1,284 @@
+{
+  "types": {
+    "BetterNecromancy.Mana": "Mana\nUse: Right-click to fully restore mana and gain +1 max mana.\nSource: Crafted by the Alchemist; common boss loot.",
+    "BetterNecromancy.ManaCrystal": "Mana Crystal\nUse: Right-click to gain +2 max mana, refill mana and speed up mana regen.\nSource: Late boss loot; guaranteed from ZombieQueen and Juggernaut.",
+    "BetterNecromancy.ArcaneFocus": "Arcane Focus\nUse: Right-click to equip permanently; the item is consumed.\nEffect: +8% spell damage and -40ms wand cooldown.\nSource: Crafted by the Alchemist after Steel; can drop from ZombieQueen or Phase.",
+    "BetterNecromancy.ArcaneFocus1": "Arcane Focus I\nUse: Right-click to equip permanently; the item is consumed.\nEffect: +16% spell damage, -80ms cooldown and cheaper heavy casts.\nSource: Crafted by the Alchemist after Nitro; can drop from Fallen Ranger or Hoarder.",
+    "BetterNecromancy.ArcaneFocus2": "Arcane Focus II\nUse: Right-click to equip permanently; the item is consumed.\nEffect: +25% spell damage, -120ms cooldown and cheaper casts.\nSource: Crafted by the Alchemist after Nitro; can drop from Juggernaut.",
+    "BetterNecromancy.Esper": "Esper\nUse: Rare focus reagent for advanced magic.\nSource: Rare bonus when crafting Mana; also drops from undead bosses.",
+    "BetterNecromancy.Aether": "Aether\nUse: Core healing reagent for support magic and the Aether Wand.\nSource: Crafted by the Alchemist from Mana and glass; also boss loot.",
+    "BetterNecromancy.Elementium": "Elementium\nUse: High-tier arcane metal for wands, focus and Adamantine.\nSource: Crafted by the Alchemist from Aether and ores; also boss loot.",
+    "BetterNecromancy.Void": "Void\nUse: Endgame reagent for Void magic and focus upgrades.\nSource: Rare bonus when crafting Elementium; also drops from late bosses.",
+    "BetterNecromancy.InnocentSoul": "Innocent Soul\nUse: Rare ritual reagent required for the Ritual Wand.\nSource: Rare boss loot.",
+    "BetterNecromancy.MageGuardCharge": "Arcane Charge\nUse: Internal mage guard focus charge.\nSource: Automatically sustained by the colony.",
+    "BetterNecromancy.AirStone": "Air Stone\nUse: Elemental upgrade used for Frost and Aether magic.\nSource: Crafted by the Alchemist from Elementium and copper arrows; also boss loot.",
+    "BetterNecromancy.EarthStone": "Earth Stone\nUse: Elemental upgrade used for Void magic and heavy magical gear.\nSource: Crafted by the Alchemist from Elementium and stone bricks; also boss loot.",
+    "BetterNecromancy.FireStone": "Fire Stone\nUse: Elemental upgrade used for Ember and Void magic.\nSource: Crafted by the Alchemist from Elementium and torches; also boss loot.",
+    "BetterNecromancy.WaterStone": "Water Stone\nUse: Elemental upgrade used for Frost and Aether magic.\nSource: Crafted by the Alchemist from Elementium and water; also boss loot.",
+    "BetterNecromancy.ManaWand": "Mana Wand\nUse: Fast starter wand. Left-click fires a bolt; right-click Overcharge chains to nearby enemies.\nSource: Direct player crafting from planks; Jack-b-Nimble can drop it.",
+    "BetterNecromancy.BriarWand": "Briar Wand\nUse: Nature wand built through the chopping block path. Left-click applies thorn bleed; right-click Brambleburst spreads pressure through a close pack.\nSource: Crafted by the Woodcutter / chopping block from a Mana Wand, Mana, Herbs, firewood and planks.",
+    "BetterNecromancy.SparkWand": "Spark Wand\nUse: Early shock wand. Left-click forks into one extra target; right-click Static Surge chains deeper through packs.\nSource: Crafted by the Alchemist after Glassblower from a Mana Wand, Mana, Aether, copper parts and glass.",
+    "BetterNecromancy.VenomWand": "Venom Wand\nUse: Plague wand. Left-click stacks poison damage over time; right-click Toxic Bloom infects grouped enemies.\nSource: Crafted by the Alchemist after Poison from a Spark Wand, Mana, Aether, Herbs and water.",
+    "BetterNecromancy.EmberWand": "Ember Wand\nUse: Fire wand. Left-click burns; right-click Inferno detonates in an area.\nSource: Alchemist after Poison; Bulging can drop it.",
+    "BetterNecromancy.FrostWand": "Frost Wand\nUse: Control wand. Left-click knocks back; right-click Shatter unleashes a frost nova.\nSource: Alchemist after Poison; ZombieQueen and Phase can drop it.",
+    "BetterNecromancy.CrystalWand": "Crystal Wand\nUse: Stonemason prism wand. Left-click fires a clean long-range bolt; right-click Prism Break splinters into nearby targets.\nSource: Crafted by the Stonemason from a Frost Wand, Mana, Elementium, Water Stones, glass and stone bricks.",
+    "BetterNecromancy.StoneWand": "Stone Wand\nUse: Heavy earth wand. Left-click slams targets hard; right-click Quake cracks packs with a heavy impact wave.\nSource: Crafted by the Alchemist after Steel from a Frost Wand, Elementium, Earth Stones, Mana and stone bricks.",
+    "BetterNecromancy.StormWand": "Storm Wand\nUse: Aggressive chain-clear wand. Left-click forks through a few enemies; right-click Tempest floods a pack with arcs.\nSource: Crafted by the Alchemist after Steel from an Ember Wand, Elementium, Aether, Air Stones and Fire Stone.",
+    "BetterNecromancy.MagicWand": "Aether Wand\nUse: Support wand. Left-click damages enemies or heals colonists; right-click heals the aimed colonist, or heals you and nearby NPCs if no ally is targeted.\nSource: Alchemist after Steel; Fallen Ranger can drop it.",
+    "BetterNecromancy.BloodWand": "Blood Wand\nUse: Late siphon wand. Left-click steals life on hit; right-click Hemorrhage drains and bleeds the target cluster.\nSource: Crafted by the Alchemist after Nitro from an Aether Wand, Void, Adamantine, Elementium, Mana Crystal and Mana.",
+    "BetterNecromancy.VoidWand": "Void Wand\nUse: Endgame burst wand. Left-click hits hard; right-click Rupture tears through grouped enemies.\nSource: Alchemist after Nitro; Juggernaut can drop it.",
+    "BetterNecromancy.AstralManaWand": "Astral Mana Wand\nUse: Evolved Mana Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.ThornheartWand": "Thornheart Wand\nUse: Evolved Briar Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.VoltspineWand": "Voltspine Wand\nUse: Evolved Spark Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.WidowrootWand": "Widowroot Wand\nUse: Evolved Venom Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.CinderlordWand": "Cinderlord Wand\nUse: Evolved Ember Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.WinterglassWand": "Winterglass Wand\nUse: Evolved Frost Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.PrismSovereignWand": "Prism Sovereign\nUse: Evolved Crystal Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.WorldbreakerWand": "Worldbreaker Wand\nUse: Evolved Stone Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.SkyfallWand": "Skyfall Wand\nUse: Evolved Storm Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.SeraphWand": "Seraph Wand\nUse: Evolved Aether Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.CrimsonCovenantWand": "Crimson Covenant\nUse: Evolved Blood Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.EclipseWand": "Eclipse Wand\nUse: Evolved Void Wand. Keeps the original spells and starts its own 10-level Evolution Mastery.",
+    "BetterNecromancy.RitualWand": "Ritual Wand",
+    "BetterNecromancy.MageGuardT1": "Apprentice Mage Guard\nUse: Long-range night guard post that fires free raw mana bolts.\nAmmo: None.\nSource: Crafted by the Job Block Crafter.",
+    "BetterNecromancy.MageGuardT2": "Adept Mage Guard\nUse: Long-range night guard post that fires free sharpened arcane bolts.\nAmmo: None.\nSource: Crafted by the Job Block Crafter after Poison.",
+    "BetterNecromancy.MageGuardT3": "Sanctified Mage Guard\nUse: Long-range high-tier night guard post that channels free sanctified spellfire.\nAmmo: None.\nSource: Crafted by the Job Block Crafter after Steel.",
+    "BetterNecromancy.MageGuardT4": "Archmage Guard\nUse: Rare boss-drop guard post with super-long-range storm magic.\nAmmo: None.\nSource: Dropped by late bosses.",
+    "BetterNecromancy.MageGuardT5": "Voidbound Mage Guard\nUse: Rare endgame boss-drop guard post with super-long-range void blasts.\nAmmo: None.\nSource: Dropped by Juggernaut and Hoarder.",
+    "BetterNecromancy.MageGuardT6": "Ritual Ascendant\nUse: Ritual reward guard post forged from mass sacrifice with extreme range.\nAmmo: None.\nSource: Awarded each time the Ritual Wand reaches another 1000 sacrificed colonists.",
+    "BetterNecromancy.BootsOfFalling": "Boots of Falling\nUse: Right-click to equip permanently; the item is consumed.\nEffect: Reduces or negates falling damage.\nSource: Alchemist craft; Jack-b-Nimble can drop it.",
+    "BetterNecromancy.Bandage": "Bandage\nUse: Right-click to heal yourself over time, or left-click a colonist to treat them.\nSource: Tailor crafting and Putrid Corpse loot.",
+    "BetterNecromancy.TreatedBandage": "Treated Bandage\nUse: Stronger right-click self-heal over time, or left-click a colonist to treat them.\nSource: Alchemist support craft and Putrid Corpse loot.",
+    "BetterNecromancy.Anitbiotic": "Antibiotic\nUse: Medical alchemy ingredient for Treated Bandages.\nSource: Crafted with Herbs; also drops from Putrid Corpse.",
+    "BetterNecromancy.Adamantine": "Adamantine\nUse: Endgame magical metal for Void-tier gear and upgrades.\nSource: Smelted from nuggets or dropped by late bosses.",
+    "BetterNecromancy.HealthBooster": "Health Booster\nUse: Right-click to equip permanently; the item is consumed.\nEffect: Passive health regeneration.\nSource: Rare Juggernaut reward and late Alchemist craft.",
+    "BetterNecromancy.ManaFlightHarness": "Mana Flight Harness\nUse: Right-click to unlock Mana Flight permanently; the item is consumed.\nEffect: Press F to enter mana-powered flight. Early mastery tiers are unstable and costly.\nSource: Late Alchemist craft.",
+    "BetterNecromancy.SkilledSword": "Skilled Sword\nUse: Right-click to equip permanently; the item is consumed.\nEffect: +50 melee damage. Stacks with higher sword tiers.\nSource: Alchemist craft; Hoarder can drop it.\nInfo: /bnmagic gear",
+    "BetterNecromancy.SkilledSword1": "Skilled Sword I\nUse: Right-click to equip permanently; the item is consumed.\nEffect: +100 melee damage. Stacks with other sword tiers.\nSource: Alchemist upgrade; Hoarder can rarely drop it.\nInfo: /bnmagic gear",
+    "BetterNecromancy.SkilledSword2": "Skilled Sword II\nUse: Right-click to equip permanently; the item is consumed.\nEffect: +200 melee damage. Stacks with lower sword tiers.\nSource: Alchemist upgrade; Hoarder can very rarely drop it.\nInfo: /bnmagic gear",
+    "BetterNecromancy.SkilledHelm": "Skilled Helm\nUse: Right-click to equip permanently in the Helm slot; the item is consumed.\nEffect: +10 damage.\nSource: Alchemist craft; ZombieKing can drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledHelm1": "Skilled Helm I\nUse: Right-click to equip permanently in the Helm slot; the item is consumed.\nEffect: +20 damage.\nSource: Alchemist upgrade; ZombieQueen can rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledHelm2": "Skilled Helm II\nUse: Right-click to equip permanently in the Helm slot; the item is consumed.\nEffect: +35 damage.\nSource: Alchemist upgrade; ZombieQueen can very rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledChest": "Skilled Chest\nUse: Right-click to equip permanently in the Chest slot; the item is consumed.\nEffect: +15% healing received.\nSource: Alchemist craft; Putrid Corpse can drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledChest1": "Skilled Chest I\nUse: Right-click to equip permanently in the Chest slot; the item is consumed.\nEffect: +30% healing received.\nSource: Alchemist upgrade; Putrid Corpse can rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledChest2": "Skilled Chest II\nUse: Right-click to equip permanently in the Chest slot; the item is consumed.\nEffect: +50% healing received.\nSource: Alchemist upgrade; Putrid Corpse can very rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledGloves": "Skilled Gloves\nUse: Right-click to equip permanently in the Gloves slot; the item is consumed.\nEffect: -100ms wand cooldown, 10% reagent preserve.\nSource: Alchemist craft; Fallen Ranger can drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledGloves1": "Skilled Gloves I\nUse: Right-click to equip permanently in the Gloves slot; the item is consumed.\nEffect: -175ms wand cooldown, 20% reagent preserve.\nSource: Alchemist upgrade; Fallen Ranger can rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledGloves2": "Skilled Gloves II\nUse: Right-click to equip permanently in the Gloves slot; the item is consumed.\nEffect: -250ms wand cooldown, 30% reagent preserve.\nSource: Alchemist upgrade; Fallen Ranger can very rarely drop it.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledLegs": "Skilled Legs\nUse: Right-click to equip permanently in the Legs slot; the item is consumed.\nEffect: +5% crit chance, +15 crit damage.\nSource: Alchemist craft; Phase can drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledLegs1": "Skilled Legs I\nUse: Right-click to equip permanently in the Legs slot; the item is consumed.\nEffect: +10% crit chance, +30 crit damage.\nSource: Alchemist upgrade; Phase can rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledLegs2": "Skilled Legs II\nUse: Right-click to equip permanently in the Legs slot; the item is consumed.\nEffect: +15% crit chance, +45 crit damage.\nSource: Alchemist upgrade; Phase can very rarely drop it.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledBoots": "Skilled Boots\nUse: Right-click to equip permanently in the Boots slot; the item is consumed.\nEffect: -25% fall damage.\nSource: Alchemist craft; Jack-b-Nimble can drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledBoots1": "Skilled Boots I\nUse: Right-click to equip permanently in the Boots slot; the item is consumed.\nEffect: -50% fall damage.\nSource: Alchemist upgrade; Jack-b-Nimble can rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledBoots2": "Skilled Boots II\nUse: Right-click to equip permanently in the Boots slot; the item is consumed.\nEffect: -75% fall damage.\nSource: Alchemist upgrade; Jack-b-Nimble can very rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledShield": "Skilled Shield\nUse: Right-click to equip permanently in the Shield slot; the item is consumed.\nEffect: -10% incoming damage.\nSource: Alchemist craft; Juggernaut can drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledShield1": "Skilled Shield I\nUse: Right-click to equip permanently in the Shield slot; the item is consumed.\nEffect: -20% incoming damage.\nSource: Alchemist upgrade; Juggernaut can rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.SkilledShield2": "Skilled Shield II\nUse: Right-click to equip permanently in the Shield slot; the item is consumed.\nEffect: -30% incoming damage.\nSource: Alchemist upgrade; Juggernaut can very rarely drop it.\nSet: 2/4/6 pieces unlock extra magic bonuses.\nInfo: /bnmagic armor",
+    "BetterNecromancy.WoodFence": "Wood Fence",
+    "BetterNecromancy.Window": "Window",
+    "BetterNecromancy.WoodSupport": "Wood Support",
+    "BetterNecromancy.SimpleChair": "Simple Chair",
+    "BetterNecromancy.SimpleTable": "Simple Table",
+    "BetterNecromancy.WoodenCatwalk": "Wooden Catwalk",
+    "BetterNecromancy.WoodBarrel": "Wood Barrel",
+    "BetterNecromancy.CrateStack": "Crate Stack",
+    "BetterNecromancy.Marble": "Marble Block",
+    "BetterNecromancy.MarbleBricks": "Marble Bricks",
+    "BetterNecromancy.MarbleSlab": "Marble Slab",
+    "BetterNecromancy.MarblePillarBase": "Marble Pillar Base",
+    "BetterNecromancy.MarblePillarBody": "Marble Pillar Body",
+    "BetterNecromancy.MarblePillarTop": "Marble Pillar Top",
+    "BetterNecromancy.CarpetBlack": "Black Carpet",
+    "BetterNecromancy.CarpetBrown": "Brown Carpet",
+    "BetterNecromancy.CarpetCyan": "Cyan Carpet",
+    "BetterNecromancy.CarpetGreen": "Green Carpet",
+    "BetterNecromancy.CarpetGrey": "Grey Carpet",
+    "BetterNecromancy.CarpetLightBlue": "Light Blue Carpet",
+    "BetterNecromancy.CarpetMagenta": "Magenta Carpet",
+    "BetterNecromancy.CarpetPurple": "Purple Carpet",
+    "BetterNecromancy.DoubleWindow": "Double Window",
+    "BetterNecromancy.WoodSupportCube": "Wood Support Cube",
+    "BetterNecromancy.HangingBanner": "Hanging Banner",
+    "BetterNecromancy.HangingBannerRW": "Red White Banner",
+    "BetterNecromancy.HangingBannerBW": "Black White Banner",
+    "BetterNecromancy.HangingBannerCB": "Cyan Black Banner",
+    "BetterNecromancy.IronBar": "Iron Bar",
+    "BetterNecromancy.IronBarCorner": "Iron Bar Corner",
+    "BetterNecromancy.IronDoor": "Iron Door",
+    "BetterNecromancy.Limestone": "Limestone",
+    "BetterNecromancy.LimestoneSlab": "Limestone Slab",
+    "BetterNecromancy.Sandstone": "Sandstone",
+    "BetterNecromancy.SandstoneSlab": "Sandstone Slab",
+    "BetterNecromancy.DirtBricks": "Dirt Bricks",
+    "BetterNecromancy.DirtBricksSlab": "Dirt Bricks Slab",
+    "BetterNecromancy.StoneSquares": "Stone Squares",
+    "BetterNecromancy.StoneSquaresSlab": "Stone Squares Slab",
+    "BetterNecromancy.MossStone": "Moss Stone",
+    "BetterNecromancy.MossStoneSlab": "Moss Stone Slab",
+    "BetterNecromancy.MossStoneBricks": "Moss Stone Bricks",
+    "BetterNecromancy.MossStoneBricksSlab": "Moss Stone Bricks Slab",
+    "BetterNecromancy.MossStoneSquares": "Moss Stone Squares",
+    "BetterNecromancy.MossStoneSquaresSlab": "Moss Stone Squares Slab",
+    "BetterNecromancy.BlackClay": "Black Clay",
+    "BetterNecromancy.BlackClaySlab": "Black Clay Slab",
+    "BetterNecromancy.BlueClay": "Blue Clay",
+    "BetterNecromancy.BlueClaySlab": "Blue Clay Slab",
+    "BetterNecromancy.BrownClay": "Brown Clay",
+    "BetterNecromancy.BrownClaySlab": "Brown Clay Slab",
+    "BetterNecromancy.CyanClay": "Cyan Clay",
+    "BetterNecromancy.CyanClaySlab": "Cyan Clay Slab",
+    "BetterNecromancy.DarkBlueClay": "Dark Blue Clay",
+    "BetterNecromancy.DarkBlueClaySlab": "Dark Blue Clay Slab",
+    "BetterNecromancy.GreenClay": "Green Clay",
+    "BetterNecromancy.GreenClaySlab": "Green Clay Slab",
+    "BetterNecromancy.GreyClay": "Grey Clay",
+    "BetterNecromancy.GreyClaySlab": "Grey Clay Slab",
+    "BetterNecromancy.LightGreyClay": "Light Grey Clay",
+    "BetterNecromancy.LightGreyClaySlab": "Light Grey Clay Slab",
+    "BetterNecromancy.LightPinkClay": "Light Pink Clay",
+    "BetterNecromancy.LightPinkClaySlab": "Light Pink Clay Slab",
+    "BetterNecromancy.LimeClay": "Lime Clay",
+    "BetterNecromancy.LimeClaySlab": "Lime Clay Slab",
+    "BetterNecromancy.MagentaClay": "Magenta Clay",
+    "BetterNecromancy.MagentaClaySlab": "Magenta Clay Slab",
+    "BetterNecromancy.OrangeClay": "Orange Clay",
+    "BetterNecromancy.OrangeClaySlab": "Orange Clay Slab",
+    "BetterNecromancy.PinkClay": "Pink Clay",
+    "BetterNecromancy.PinkClaySlab": "Pink Clay Slab",
+    "BetterNecromancy.PurpleClay": "Purple Clay",
+    "BetterNecromancy.PurpleClaySlab": "Purple Clay Slab",
+    "BetterNecromancy.RedClay": "Red Clay",
+    "BetterNecromancy.RedClaySlab": "Red Clay Slab",
+    "BetterNecromancy.WhiteClay": "White Clay",
+    "BetterNecromancy.WhiteClaySlab": "White Clay Slab",
+    "BetterNecromancy.YellowClay": "Yellow Clay",
+    "BetterNecromancy.YellowClaySlab": "Yellow Clay Slab",
+    "BetterNecromancy.WoodFenceCorner": "Wood Fence Corner",
+    "BetterNecromancy.WoodSupportUD": "Wood Support Beam",
+    "BetterNecromancy.Glass": "Glass",
+    "BetterNecromancy.HangingBannerBW2": "Black White Banner II",
+    "BetterNecromancy.CarpetLime": "Lime Carpet",
+    "BetterNecromancy.CarpetOrange": "Orange Carpet",
+    "BetterNecromancy.CarpetPink": "Pink Carpet",
+    "BetterNecromancy.Sapling": "Sapling",
+    "BetterNecromancy.DecorWater": "Still Water",
+    "BetterNecromancy.Lava": "Decorative Lava",
+    "BetterNecromancy.Chalk": "Chalk",
+    "BetterNecromancy.BerryPancakes": "Berry Pancakes",
+    "BetterNecromancy.BerryPie": "Berry Pie",
+    "BetterNecromancy.RawMarble": "Raw Marble",
+    "BetterNecromancy.RawMarbleSlab": "Raw Marble Slab",
+    "BetterNecromancy.RawEmerald": "Raw Emerald",
+    "BetterNecromancy.RawRuby": "Raw Ruby",
+    "BetterNecromancy.RawSapphire": "Raw Sapphire",
+    "BetterNecromancy.RefinedEmerald": "Refined Emerald",
+    "BetterNecromancy.RefinedRuby": "Refined Ruby",
+    "BetterNecromancy.RefinedSapphire": "Refined Sapphire",
+    "BetterNecromancy.AdamantineNugget": "Adamantine Nugget\nUse: Smelt 6 with charcoal into Adamantine.\nSource: Boss loot and Adamantine veins.",
+    "BetterNecromancy.Knife": "Knife",
+    "BetterNecromancy.Chisel": "Chisel",
+    "BetterNecromancy.Saw": "Saw",
+    "BetterNecromancy.Sledgehammer": "Sledge Hammer",
+    "BetterNecromancy.InfiniteMarble": "Marble Vein",
+    "BetterNecromancy.InfiniteEmerald": "Emerald Vein",
+    "BetterNecromancy.InfiniteRuby": "Ruby Vein",
+    "BetterNecromancy.InfiniteSapphire": "Sapphire Vein",
+    "BetterNecromancy.InfiniteAdamantine": "Adamantine Vein",
+    "BetterNecromancy.Lamp": "Lamp",
+    "BetterNecromancy.GoldCube": "Golden Lamp",
+    "BetterNecromancy.Herbs": "Herbs",
+    "BetterNecromancy.CorpseBlock": "Corpse Block",
+    "BetterNecromancy.GoldenRitualAltar": "Golden Ritual Altar",
+    "BetterNecromancy.HerbalistBench": "Herbalist Bench",
+    "BetterNecromancy.HerbsStage1": "Herb Seeds",
+    "BetterNecromancy.HerbsStage2": "Growing Herbs",
+    "BetterNecromancy.RubyOre": "Ruby Ore",
+    "BetterNecromancy.SapphireOre": "Sapphire Ore",
+    "BetterNecromancy.BlackPlanks": "Black Planks"
+    ,"BetterNecromancy.PlanksSlab": "Planks Slab"
+    ,"BetterNecromancy.BlackPlanksSlab": "Black Planks Slab"
+    ,"BetterNecromancy.StoneBlockSlab": "Stone Block Slab"
+    ,"BetterNecromancy.StoneBricksSlab": "Stone Bricks Slab"
+    ,"BetterNecromancy.SandSlab": "Sand Slab"
+    ,"BetterNecromancy.DirtSlab": "Dirt Slab"
+    ,"BetterNecromancy.ClaySlab": "Clay Slab"
+    ,"BetterNecromancy.StrawSlab": "Straw Slab"
+    ,"BetterNecromancy.TemperateLeavesSlab": "Temperate Leaves Slab"
+    ,"BetterNecromancy.TaigaLeavesSlab": "Taiga Leaves Slab"
+    ,"BetterNecromancy.CherryBlossomSlab": "Cherry Blossom Slab"
+    ,"BetterNecromancy.SnowSlab": "Snow Slab"
+    ,"BetterNecromancy.DecorWaterSlab": "Still Water Slab"
+    ,"BetterNecromancy.LavaSlab": "Decorative Lava Slab"
+    ,"BetterNecromancy.StoneColumn": "Stone Column"
+    ,"BetterNecromancy.StoneColumnBase": "Stone Column Base"
+    ,"BetterNecromancy.MarbleSpiral": "Marble Spiral"
+    ,"BetterNecromancy.MarbleSpiralTop": "Marble Spiral Top"
+    ,"BetterNecromancy.ArcanePad": "Arcane Pad"
+    ,"BetterNecromancy.TeleportPad": "Teleport Pad"
+    ,"BetterNecromancy.SmallWindowBottom": "Small Window Bottom"
+    ,"BetterNecromancy.SmallWindowMiddle": "Small Window Middle"
+    ,"BetterNecromancy.SmallWindowTop": "Small Window Top"
+    ,"BetterNecromancy.Basket": "Basket"
+    ,"BetterNecromancy.AloePlant": "Aloe Plant"
+    ,"BetterNecromancy.Bluebonnet": "Bluebonnet"
+    ,"BetterNecromancy.GardenBenchLeft": "Garden Bench Left"
+    ,"BetterNecromancy.GardenBenchRight": "Garden Bench Right"
+    ,"BetterNecromancy.WoodCrate": "Wood Crate"
+    ,"BetterNecromancy.WoodFrame": "Wood Frame"
+    ,"BetterNecromancy.DecorativeCow": "Decorative Cow"
+    ,"BetterNecromancy.PhysicianBench": "Physician Bench"
+    ,"BetterNecromancy.MachinistBench": "Machinist Bench"
+    ,"BetterNecromancy.DecorativeGate": "Decorative Gate"
+    ,"BetterNecromancy.MiddleWindow": "Middle Window"
+    ,"BetterNecromancy.QuarterBlock": "Quarter Block"
+    ,"BetterNecromancy.CornerBlock": "Corner Block"
+    ,"BetterNecromancy.EdgeBlock": "Edge Block"
+    ,"BetterNecromancy.VerticalSlab": "Vertical Slab"
+    ,"BetterNecromancy.RaisedQuarterBlock": "Raised Quarter Block"
+    ,"BetterNecromancy.RaisedCornerBlock": "Raised Corner Block"
+    ,"BetterNecromancy.RaisedEdgeBlock": "Raised Edge Block"
+    ,"BetterNecromancy.Ramp": "Ramp"
+    ,"BetterNecromancy.RampCorner": "Ramp Corner"
+    ,"BetterNecromancy.RampCornerInverted": "Ramp Corner Inverted"
+    ,"BetterNecromancy.Stairs": "Stairs"
+    ,"BetterNecromancy.StairsCorner": "Stairs Corner"
+    ,"BetterNecromancy.StairsCornerInverted": "Stairs Corner Inverted"
+    ,"BetterNecromancy.InvertedRamp": "Inverted Ramp"
+    ,"BetterNecromancy.InvertedRampCorner": "Inverted Ramp Corner"
+    ,"BetterNecromancy.InvertedRampCornerInverted": "Inverted Ramp Corner Inverted"
+    ,"BetterNecromancy.InvertedStairs": "Inverted Stairs"
+    ,"BetterNecromancy.InvertedStairsCorner": "Inverted Stairs Corner"
+    ,"BetterNecromancy.InvertedStairsCornerInverted": "Inverted Stairs Corner Inverted"
+    ,"BetterNecromancy.AdvancedCraftingTableDecor": "Advanced Crafting Table"
+    ,"BetterNecromancy.ApothecaryTableDecor": "Apothecary Table"
+    ,"BetterNecromancy.DecorBuilderTableDecor": "Decor Builder Table"
+    ,"BetterNecromancy.SorcererTableDecor": "Sorcerer Table"
+    ,"BetterNecromancy.PatrolFlagDecor": "Patrol Flag"
+    ,"BetterNecromancy.GateLeverDecor": "Gate Lever"
+  },
+  "sentences": {
+    "category": {
+      "magic": "Magic",
+      "weapon": "Weapons",
+      "armor": "Armor",
+      "magicitem": "Magic Items",
+      "medicine": "Medicine",
+      "medizine": "Medicine",
+      "herb": "Herbs",
+      "ritual": "Ritual",
+      "soul": "Souls",
+      "adamantine": "Adamantine",
+      "raw": "Raw Materials",
+      "ammo": "Ammo",
+      "internal": "Internal",
+      "crafting": "Crafting",
+      "boots": "Boots",
+      "flight": "Flight",
+      "relic": "Relics",
+      "focus": "Focus",
+      "mana": "Mana",
+      "ui": "UI",
+      "hidden": "Hidden"
+    }
+  }
+}
