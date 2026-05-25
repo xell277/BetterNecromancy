@@ -1,0 +1,55 @@
+[
+  {
+    "cooldown": 80.0,
+    "defaultLimit": 1,
+    "defaultPriority": -40,
+    "name": "BetterNecromancy.jobblockcrafter.MageGuardT1",
+    "requires": [
+      { "amount": 4, "type": "BetterNecromancy.Mana" },
+      { "amount": 2, "type": "BetterNecromancy.Aether" },
+      { "amount": 6, "type": "planks" },
+      { "amount": 8, "type": "stonebricks" },
+      { "amount": 2, "type": "copperingot" }
+    ],
+    "requiresScience": "pipliz.glassblower",
+    "results": [
+      { "amount": 1, "type": "BetterNecromancy.MageGuardT1" }
+    ],
+    "sortWeight": 9100001
+  },
+  {
+    "cooldown": 105.0,
+    "defaultLimit": 1,
+    "defaultPriority": -40,
+    "name": "BetterNecromancy.jobblockcrafter.MageGuardT2",
+    "requires": [
+      { "amount": 8, "type": "BetterNecromancy.Mana" },
+      { "amount": 4, "type": "BetterNecromancy.Aether" },
+      { "amount": 10, "type": "stonebricks" },
+      { "amount": 6, "type": "glasspiece" },
+      { "amount": 4, "type": "copperingot" }
+    ],
+    "requiresScience": "pipliz.poison",
+    "results": [
+      { "amount": 1, "type": "BetterNecromancy.MageGuardT2" }
+    ],
+    "sortWeight": 9100002
+  },
+  {
+    "cooldown": 135.0,
+    "defaultLimit": 1,
+    "defaultPriority": -40,
+    "name": "BetterNecromancy.jobblockcrafter.MageGuardT3",
+    "requires": [
+      { "amount": 12, "type": "BetterNecromancy.Mana" },
+      { "amount": 2, "type": "BetterNecromancy.Elementium" },
+      { "amount": 12, "type": "stonebricks" },
+      { "amount": 4, "type": "bookofknowledge" }
+    ],
+    "requiresScience": "pipliz.steel",
+    "results": [
+      { "amount": 1, "type": "BetterNecromancy.MageGuardT3" }
+    ],
+    "sortWeight": 9100003
+  }
+]

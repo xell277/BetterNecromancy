@@ -1,0 +1,1104 @@
+[
+  {
+    "clipCollectionName": "bn_ritual_audio",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 1.25,
+        "fileType": "OggStreamed",
+        "path": "./audio/RitualAudio.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_damned_screams",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.35,
+        "fileType": "OggStreamed",
+        "path": "./audio/DamnedScreams.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_mana",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/ManaWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_guard_cast_mana",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.5,
+        "path": "./audio/ManaWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 32.0
+  },
+  {
+    "clipCollectionName": "bn_cast_briar",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/BriarWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_spark",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/SparkWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_guard_cast_spark",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.5,
+        "path": "./audio/SparkWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 32.0
+  },
+  {
+    "clipCollectionName": "bn_cast_venom",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/VenomWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_ember",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/EmberWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_frost",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/FrostWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_crystal",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/CrystalWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_stone",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/StoneWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_storm",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/StormWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_guard_cast_storm",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.5,
+        "path": "./audio/StormWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 32.0
+  },
+  {
+    "clipCollectionName": "bn_cast_aether",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/AetherWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_guard_cast_aether",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.5,
+        "path": "./audio/AetherWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 32.0
+  },
+  {
+    "clipCollectionName": "bn_cast_blood",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/BloodWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_cast_void",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/VoidWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_guard_cast_void",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.5,
+        "path": "./audio/VoidWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 32.0
+  },
+  {
+    "clipCollectionName": "bn_cast_ritual",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/RitualWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_guard_cast_ritual",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.5,
+        "path": "./audio/RitualWandCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 32.0
+  },
+  {
+    "clipCollectionName": "bn_impact_mana",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/ManaWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_briar",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/BriarWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_spark",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/SparkWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_venom",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/VenomWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_ember",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/EmberWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_frost",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/FrostWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_crystal",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/CrystalWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_stone",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/StoneWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_storm",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/StormWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_aether",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/AetherWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_blood",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/BloodWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_void",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/VoidWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_impact_ritual",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.8,
+        "path": "./audio/RitualWandImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 42.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_mana",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/ManaWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_briar",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/BriarWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_spark",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/SparkWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_venom",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/VenomWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_ember",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/EmberWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_frost",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/FrostWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_crystal",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/CrystalWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_stone",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/StoneWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_storm",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/StormWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_aether",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/AetherWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_blood",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/BloodWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_void",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/VoidWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_hcast_ritual",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.05,
+        "path": "./audio/RitualWandHeavyCast.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_mana",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/ManaWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_briar",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/BriarWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_spark",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/SparkWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_venom",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/VenomWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_ember",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/EmberWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_frost",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/FrostWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_crystal",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/CrystalWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_stone",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/StoneWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_storm",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/StormWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_aether",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/AetherWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_blood",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/BloodWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_void",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/VoidWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_himpact_ritual",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": true,
+        "volume": 0.9,
+        "path": "./audio/RitualWandHeavyImpact.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 46.0
+  },
+  {
+    "clipCollectionName": "bn_item_mana_bottle_use",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/ManaBottleUse.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_mana_crystal_absorb",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/ManaCrystalAbsorb.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_health_booster_equip",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/HealthBoosterEquip.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_boots_equip",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/BootsEquip.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_focus_equip",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/FocusEquip.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_sword_equip",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/SwordEquip.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_armor_equip",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.0,
+        "path": "./audio/ArmorEquip.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_bandage_use",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 0.95,
+        "path": "./audio/BandageUse.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_item_treated_bandage_use",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 0.95,
+        "path": "./audio/TreatedBandageUse.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_bloodmoon_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.72,
+        "fileType": "OggStreamed",
+        "path": "./audio/BloodMoonAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_bloodmoon_aftermath_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.62,
+        "fileType": "OggStreamed",
+        "path": "./audio/BloodMoonAftermathAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_plaguefog_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.72,
+        "fileType": "OggStreamed",
+        "path": "./audio/PlagueFogAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_plaguefog_aftermath_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.62,
+        "fileType": "OggStreamed",
+        "path": "./audio/PlagueFogAftermathAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_arcanestorm_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.72,
+        "fileType": "OggStreamed",
+        "path": "./audio/ArcaneStormAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_arcanestorm_aftermath_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.62,
+        "fileType": "OggStreamed",
+        "path": "./audio/ArcaneStormAftermathAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_horde_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.76,
+        "fileType": "OggStreamed",
+        "path": "./audio/HordeAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_event_horde_aftermath_ambient",
+    "fileList": [
+      {
+        "audioGroup": "AmbientLoop",
+        "isThreeD": false,
+        "volume": 0.62,
+        "fileType": "OggStreamed",
+        "path": "./audio/HordeAftermathAmbient.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  },
+  {
+    "clipCollectionName": "bn_manaflight_crash",
+    "fileList": [
+      {
+        "audioGroup": "Effects",
+        "isThreeD": false,
+        "volume": 1.2,
+        "path": "./audio/ManaFlightCrash.ogg",
+        "pitchMinimum": 1.0,
+        "pitchMaximum": 1.0
+      }
+    ],
+    "range": 24.0
+  }
+]

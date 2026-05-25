@@ -1,0 +1,7 @@
+{
+  "fleshblock": {
+    "albedo": "./textures/materials/blocks/albedo/fleshblock.png",
+    "height": "./textures/materials/blocks/heightSmoothnessSpecularity/fleshblock.png",
+    "normal": "./textures/materials/blocks/normal/fleshblock.png"
+  }
+}

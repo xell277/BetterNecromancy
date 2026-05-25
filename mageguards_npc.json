@@ -1,0 +1,56 @@
+[
+  {
+    "data": {
+      "maskColor1": "#7AA7FF"
+    },
+    "keyName": "BetterNecromancy.MageGuardT1Npc",
+    "mesh": "./meshes/jobs/alchemist.glb",
+    "npcType": "worker",
+    "printName": "Apprentice Mage Guard"
+  },
+  {
+    "data": {
+      "maskColor1": "#6DE6FF"
+    },
+    "keyName": "BetterNecromancy.MageGuardT2Npc",
+    "mesh": "./meshes/jobs/glassblower.glb",
+    "npcType": "worker",
+    "printName": "Adept Mage Guard"
+  },
+  {
+    "data": {
+      "maskColor1": "#D7E7FF"
+    },
+    "keyName": "BetterNecromancy.MageGuardT3Npc",
+    "mesh": "./meshes/jobs/sanctifier.glb",
+    "npcType": "worker",
+    "printName": "Sanctified Mage Guard"
+  },
+  {
+    "data": {
+      "maskColor1": "#C39BFF"
+    },
+    "keyName": "BetterNecromancy.MageGuardT4Npc",
+    "mesh": "./meshes/jobs/researcher.glb",
+    "npcType": "worker",
+    "printName": "Archmage Guard"
+  },
+  {
+    "data": {
+      "maskColor1": "#7A49D9"
+    },
+    "keyName": "BetterNecromancy.MageGuardT5Npc",
+    "mesh": "./meshes/jobs/jeweller.glb",
+    "npcType": "worker",
+    "printName": "Voidbound Mage Guard"
+  },
+  {
+    "data": {
+      "maskColor1": "#C80064"
+    },
+    "keyName": "BetterNecromancy.MageGuardT6Npc",
+    "mesh": "./meshes/jobs/sanctifier.glb",
+    "npcType": "worker",
+    "printName": "Ritual Ascendant"
+  }
+]

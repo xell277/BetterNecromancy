@@ -1,0 +1,74 @@
+[
+  {
+    "cooldown": 45.0,
+    "defaultLimit": 30,
+    "defaultPriority": -100,
+    "name": "BetterNecromancy.alchemist.Herbs",
+    "requires": [
+      { "amount": 1, "type": "hollyhock" },
+      { "amount": 1, "type": "wolfsbane" },
+      { "amount": 1, "type": "alkanet" }
+    ],
+    "requiresScience": "pipliz.poison",
+    "results": [
+      { "amount": 2, "type": "BetterNecromancy.Herbs" }
+    ],
+    "sortWeight": 9000400
+  },
+  {
+    "cooldown": 75.0,
+    "defaultLimit": 1,
+    "defaultPriority": -50,
+    "name": "BetterNecromancy.alchemist.ArcaneFocus",
+    "requires": [
+      { "amount": 1, "type": "BetterNecromancy.ManaCrystal" },
+      { "amount": 12, "type": "BetterNecromancy.Mana" },
+      { "amount": 6, "type": "BetterNecromancy.Aether" },
+      { "amount": 4, "type": "BetterNecromancy.Esper" },
+      { "amount": 2, "type": "BetterNecromancy.Elementium" },
+      { "amount": 2, "type": "bookofknowledge" }
+    ],
+    "requiresScience": "pipliz.steel",
+    "results": [
+      { "amount": 1, "type": "BetterNecromancy.ArcaneFocus" }
+    ],
+    "sortWeight": 9000908
+  },
+  {
+    "cooldown": 95.0,
+    "defaultLimit": 1,
+    "defaultPriority": -50,
+    "name": "BetterNecromancy.alchemist.ArcaneFocus1",
+    "requires": [
+      { "amount": 4, "type": "BetterNecromancy.Adamantine" },
+      { "amount": 6, "type": "BetterNecromancy.Elementium" },
+      { "amount": 18, "type": "BetterNecromancy.Mana" },
+      { "amount": 2, "type": "BetterNecromancy.Void" },
+      { "amount": 1, "type": "BetterNecromancy.ManaCrystal" },
+      { "amount": 4, "type": "bookofknowledge" }
+    ],
+    "requiresScience": "pipliz.nitro",
+    "results": [
+      { "amount": 1, "type": "BetterNecromancy.ArcaneFocus1" }
+    ],
+    "sortWeight": 9000909
+  },
+  {
+    "cooldown": 120.0,
+    "defaultLimit": 1,
+    "defaultPriority": -50,
+    "name": "BetterNecromancy.alchemist.ArcaneFocus2",
+    "requires": [
+      { "amount": 10, "type": "BetterNecromancy.Adamantine" },
+      { "amount": 12, "type": "BetterNecromancy.Elementium" },
+      { "amount": 6, "type": "BetterNecromancy.Void" },
+      { "amount": 2, "type": "BetterNecromancy.ManaCrystal" },
+      { "amount": 8, "type": "bookofknowledge" }
+    ],
+    "requiresScience": "pipliz.nitro",
+    "results": [
+      { "amount": 1, "type": "BetterNecromancy.ArcaneFocus2" }
+    ],
+    "sortWeight": 9000910
+  }
+]

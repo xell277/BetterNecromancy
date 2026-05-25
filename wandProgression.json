@@ -1,0 +1,135 @@
+{
+  "Lineage": {
+    "FirstBranchPoints": 300,
+    "Tier3Points": 1000,
+    "Tier4Points": 2400,
+    "Tier5Points": 4800,
+    "MasteryPointsPerLevel": 300,
+    "MaxMasteryLevel": 10,
+    "DamageBonusPerMasteryLevel": 0.2,
+    "Branches": [
+      {
+        "Key": "Frost",
+        "DisplayName": "Frost",
+        "Role": "control / slow / freeze / shatter",
+        "Primary": "Precision frost bolt",
+        "Secondary": "Shatter nova",
+        "Passive": "Control pressure, knockback and prism/storm splinters at later tiers.",
+        "T6Name": "Winterglass Ascendant",
+        "MasterySources": {
+          "OnCast": 1,
+          "OnHit": 2,
+          "OnStatusApplied": 3,
+          "OnMultiKill": 4,
+          "OnEliteDamage": 4,
+          "OnBossDamage": 5,
+          "OnRitualContribution": 25
+        }
+      },
+      {
+        "Key": "Ember",
+        "DisplayName": "Ember",
+        "Role": "burst / ignite / explosions / AoE",
+        "Primary": "Igniting fire bolt",
+        "Secondary": "Inferno detonation",
+        "Passive": "Burn stacks spread harder and later borrow storm/blood pressure.",
+        "T6Name": "Cinderlord Ascendant",
+        "MasterySources": {
+          "OnCast": 1,
+          "OnHit": 2,
+          "OnStatusApplied": 3,
+          "OnMultiKill": 6,
+          "OnEliteDamage": 4,
+          "OnBossDamage": 5,
+          "OnRitualContribution": 25
+        }
+      },
+      {
+        "Key": "Venom",
+        "DisplayName": "Venom",
+        "Role": "poison / DoT / spread / weaken",
+        "Primary": "Stacking poison dart",
+        "Secondary": "Toxic bloom",
+        "Passive": "Poison lasts long, stacks, spreads, and later borrows thorn/void pressure.",
+        "T6Name": "Widowroot Ascendant",
+        "MasterySources": {
+          "OnCast": 1,
+          "OnHit": 2,
+          "OnStatusApplied": 5,
+          "OnPoisonTick": 2,
+          "OnMultiKill": 4,
+          "OnEliteDamage": 4,
+          "OnBossDamage": 5,
+          "OnRitualContribution": 25
+        }
+      },
+      {
+        "Key": "Stone",
+        "DisplayName": "Stone",
+        "Role": "heavy hits / stagger / armor break / anti-elite",
+        "Primary": "Heavy stone slam",
+        "Secondary": "Quake wave",
+        "Passive": "High force, elite/boss pressure and armor-break flavor. Later tiers borrow aether/spark collapse.",
+        "T6Name": "Worldbreaker Ascendant",
+        "MasterySources": {
+          "OnCast": 1,
+          "OnHit": 3,
+          "OnArmorBreak": 6,
+          "OnStagger": 5,
+          "OnEliteDamage": 6,
+          "OnEliteKill": 10,
+          "OnBossDamage": 7,
+          "OnRitualContribution": 25
+        }
+      }
+    ]
+  },
+  "Meditation": {
+    "StartDelaySeconds": 0.85,
+    "RegenIntervalReductionMs": 1200,
+    "FullManaRewardSeconds": 100,
+    "MaxManaRewardAmount": 1,
+    "RegenMilestoneSeconds": 1000,
+    "PermanentRegenReductionMs": 400,
+    "StationaryDistanceTolerance": 0.08
+  },
+  "Elites": {
+    "FxIntervalSeconds": 1.15,
+    "AuraScale": 1.35,
+    "HealthMultiplier": 2.0,
+    "GlowPulseRadius": 1.75,
+    "GlowTrailSpokes": 7,
+    "SpawnSmokeBursts": 4,
+    "Drops": {
+      "Bloodbound": [
+        { "ItemKey": "Aether", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.8 },
+        { "ItemKey": "Mana", "MinAmount": 3, "MaxAmount": 5, "Chance": 0.75 },
+        { "ItemKey": "FireStone", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.2 }
+      ],
+      "Plagueborn": [
+        { "ItemKey": "Elementium", "MinAmount": 1, "MaxAmount": 3, "Chance": 0.55 },
+        { "ItemKey": "Mana", "MinAmount": 2, "MaxAmount": 5, "Chance": 0.65 },
+        { "ItemKey": "EarthStone", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.22 }
+      ],
+      "Stormtouched": [
+        { "ItemKey": "AirStone", "MinAmount": 1, "MaxAmount": 2, "Chance": 0.42 },
+        { "ItemKey": "Mana", "MinAmount": 3, "MaxAmount": 5, "Chance": 0.7 },
+        { "ItemKey": "Aether", "MinAmount": 1, "MaxAmount": 3, "Chance": 0.42 }
+      ],
+      "Warbound": [
+        { "ItemKey": "AdamantineNugget", "MinAmount": 3, "MaxAmount": 6, "Chance": 0.72 },
+        { "ItemKey": "Elementium", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.58 },
+        { "ItemKey": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 }
+      ],
+      "Feral": [
+        { "ItemKey": "Mana", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.7 },
+        { "ItemKey": "Esper", "MinAmount": 1, "MaxAmount": 3, "Chance": 0.28 }
+      ]
+    }
+  },
+  "RitualAwakening": {
+    "RequiredTier": 5,
+    "MasteryPointsGranted": 250,
+    "ChatHint": "Requires a Tier 5 lineage wand. The ritual awakens that same wand to Tier 6."
+  }
+}

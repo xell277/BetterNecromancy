@@ -1,0 +1,17 @@
+[
+  {
+    "cooldown": 120.0,
+    "defaultLimit": 0,
+    "defaultPriority": -100,
+    "name": "BetterNecromancy.smelter.AdamantineFromNuggets",
+    "requires": [
+      { "amount": 6, "type": "BetterNecromancy.AdamantineNugget" },
+      { "amount": 5, "type": "charcoal" }
+    ],
+    "requiresScience": "pipliz.steel",
+    "results": [
+      { "amount": 1, "type": "BetterNecromancy.Adamantine" }
+    ],
+    "sortWeight": 9000700
+  }
+]

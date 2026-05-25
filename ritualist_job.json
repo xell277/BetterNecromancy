@@ -1,0 +1,9 @@
+[
+  {
+    "blockType": "BetterNecromancy.GoldenRitualAltar",
+    "cooldown": 1,
+    "jobType": "craftingblock",
+    "maxCraftsPerHaul": 1,
+    "npcType": "BetterNecromancy.Ritualist"
+  }
+]

@@ -1,0 +1,216 @@
+{
+  "BetterNecromancy.AdamantineNugget": {
+    "categories": [ "ingredient", "magic", "adamantine", "raw" ],
+    "icon": "./icons/AdamantineNugget.png",
+    "isPlaceable": false,
+    "maxStackSize": 600,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.Herbs": {
+    "categories": [ "ingredient", "herb", "magic", "medicine" ],
+    "icon": "./icons/herb.png",
+    "isPlaceable": false,
+    "maxStackSize": 600,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.InnocentSoul": {
+    "categories": [ "ingredient", "magic", "ritual", "soul" ],
+    "icon": "./icons/innocentSouls.png",
+    "isPlaceable": false,
+    "maxStackSize": 200,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.MageGuardCharge": {
+    "categories": [ "magic", "ammo", "internal" ],
+    "icon": "./icons/MageGuardCharge.png",
+    "isPlaceable": false,
+    "maxStackSize": 65535,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.CorpseBlock": {
+    "categories": [ "decorative", "ritual", "magic" ],
+    "icon": "./icons/fleshBlockDraft.png",
+    "isPlaceable": true,
+    "isSolid": true,
+    "lightingTransparency": 0,
+    "maxStackSize": 200,
+    "movementCost": 2,
+    "needsBase": true,
+    "npcLimit": 0,
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "pathingImpact": "AsUntouchableSolid",
+    "sideall": "fleshblock"
+  },
+  "BetterNecromancy.GoldenRitualAltar": {
+    "attachBehaviour": [
+      {
+        "id": "craftingblock",
+        "npcType": "BetterNecromancy.Ritualist",
+        "timeBetweenHauls": 40,
+        "toolset": "notool"
+      }
+    ],
+    "categories": [ "ritual", "magic" ],
+    "icon": "./icons/GoldCube.png",
+    "isPlaceable": true,
+    "isSolid": false,
+    "lightingTransparency": 120,
+    "maxStackSize": 50,
+    "movementCost": 2,
+    "mesh": "./meshes/sanctifiertable.ply",
+    "needsBase": true,
+    "npcLimit": 0,
+    "onPlaceAudio": "woodPlace",
+    "onRemoveAudio": "woodDeleteLight",
+    "pathingImpact": "AsUntouchableSolid",
+    "sideall": "neutral"
+  },
+  "BetterNecromancy.ManaBar0": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_0.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar1": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_1.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar2": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_2.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar3": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_3.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar4": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_4.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar5": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_5.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar6": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_6.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar7": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_7.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar8": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_8.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar9": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_9.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar10": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_10.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar11": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_11.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar12": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_12.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar13": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_13.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar14": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_14.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar15": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_15.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar16": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_16.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar17": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_17.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar18": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_18.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar19": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_19.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  },
+  "BetterNecromancy.ManaBar20": {
+    "categories": [ "ui", "hidden" ],
+    "icon": "./icons/mana_bar_20.png",
+    "isPlaceable": false,
+    "maxStackSize": 1,
+    "npcLimit": 0
+  }
+}

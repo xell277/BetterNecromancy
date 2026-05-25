@@ -1,0 +1,151 @@
+{
+  "Bosses": [
+    {
+      "BossName": "ZombieKing",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 14, "MaxAmount": 24, "Chance": 1.0 },
+        { "Item": "Esper", "MinAmount": 4, "MaxAmount": 8, "Chance": 1.0 },
+        { "Item": "FireStone", "MinAmount": 1, "MaxAmount": 2, "Chance": 0.65 },
+        { "Item": "Elementium", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.8 },
+        { "Item": "SkilledHelm", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.1 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.18 },
+        { "Item": "Void", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.5 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "ZombieQueen",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 14, "MaxAmount": 22, "Chance": 1.0 },
+        { "Item": "Esper", "MinAmount": 3, "MaxAmount": 6, "Chance": 1.0 },
+        { "Item": "Elementium", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.7 },
+        { "Item": "WaterStone", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.75 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.18 },
+        { "Item": "MageGuardT4", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.14 },
+        { "Item": "ArcaneFocus", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.2 },
+        { "Item": "SkilledHelm1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "SkilledHelm2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.03 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 1.0 },
+        { "Item": "Void", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.55 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "Fallen Ranger",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 10, "MaxAmount": 18, "Chance": 1.0 },
+        { "Item": "Aether", "MinAmount": 3, "MaxAmount": 6, "Chance": 1.0 },
+        { "Item": "AirStone", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.95 },
+        { "Item": "AdamantineNugget", "MinAmount": 3, "MaxAmount": 6, "Chance": 0.65 },
+        { "Item": "Adamantine", "MinAmount": 1, "MaxAmount": 3, "Chance": 0.35 },
+        { "Item": "SkilledGloves", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "SkilledGloves1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "SkilledGloves2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.03 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.18 },
+        { "Item": "Aether", "MinAmount": 4, "MaxAmount": 8, "Chance": 0.2 },
+        { "Item": "MageGuardT4", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "ArcaneFocus1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.15 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "Putrid Corpse",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 6, "MaxAmount": 12, "Chance": 1.0 },
+        { "Item": "Aether", "MinAmount": 3, "MaxAmount": 5, "Chance": 0.95 },
+        { "Item": "Bandage", "MinAmount": 3, "MaxAmount": 6, "Chance": 1.0 },
+        { "Item": "Anitbiotic", "MinAmount": 2, "MaxAmount": 5, "Chance": 1.0 },
+        { "Item": "TreatedBandage", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.85 },
+        { "Item": "SkilledChest", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "SkilledChest1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "SkilledChest2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.03 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "Bulging",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 12, "MaxAmount": 20, "Chance": 1.0 },
+        { "Item": "Aether", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.85 },
+        { "Item": "Elementium", "MinAmount": 3, "MaxAmount": 5, "Chance": 0.9 },
+        { "Item": "FireStone", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.18 },
+        { "Item": "FireStone", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.75 },
+        { "Item": "WaterStone", "MinAmount": 1, "MaxAmount": 2, "Chance": 0.55 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "Hoarder",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 10, "MaxAmount": 16, "Chance": 1.0 },
+        { "Item": "Esper", "MinAmount": 3, "MaxAmount": 5, "Chance": 0.95 },
+        { "Item": "EarthStone", "MinAmount": 1, "MaxAmount": 2, "Chance": 0.7 },
+        { "Item": "Elementium", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.75 },
+        { "Item": "AdamantineNugget", "MinAmount": 3, "MaxAmount": 6, "Chance": 0.75 },
+        { "Item": "SkilledSword", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "SkilledSword1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "SkilledSword2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.03 },
+        { "Item": "MageGuardT5", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "ArcaneFocus1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.18 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.18 },
+        { "Item": "Adamantine", "MinAmount": 1, "MaxAmount": 3, "Chance": 0.35 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "Jack-b-Nimble",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 8, "MaxAmount": 12, "Chance": 1.0 },
+        { "Item": "Esper", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.85 },
+        { "Item": "AirStone", "MinAmount": 1, "MaxAmount": 2, "Chance": 0.9 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.22 },
+        { "Item": "BootsOfFalling", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.16 },
+        { "Item": "SkilledBoots", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.1 },
+        { "Item": "SkilledBoots1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.07 },
+        { "Item": "SkilledBoots2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.03 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "Juggernaut",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 16, "MaxAmount": 26, "Chance": 1.0 },
+        { "Item": "AdamantineNugget", "MinAmount": 6, "MaxAmount": 10, "Chance": 1.0 },
+        { "Item": "Adamantine", "MinAmount": 3, "MaxAmount": 5, "Chance": 1.0 },
+        { "Item": "EarthStone", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.9 },
+        { "Item": "FireStone", "MinAmount": 1, "MaxAmount": 3, "Chance": 0.75 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 1.0 },
+        { "Item": "SkilledShield", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.14 },
+        { "Item": "SkilledShield1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.1 },
+        { "Item": "SkilledShield2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.04 },
+        { "Item": "ArcaneFocus2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.18 },
+        { "Item": "Void", "MinAmount": 4, "MaxAmount": 8, "Chance": 0.12 },
+        { "Item": "MageGuardT5", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "HealthBooster", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.2 },
+        { "Item": "Void", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.6 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    },
+    {
+      "BossName": "Phase",
+      "Drops": [
+        { "Item": "Mana", "MinAmount": 10, "MaxAmount": 16, "Chance": 1.0 },
+        { "Item": "Aether", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.85 },
+        { "Item": "Void", "MinAmount": 1, "MaxAmount": 2, "Chance": 0.45 },
+        { "Item": "WaterStone", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.75 },
+        { "Item": "WaterStone", "MinAmount": 2, "MaxAmount": 4, "Chance": 0.15 },
+        { "Item": "MageGuardT4", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "SkilledLegs", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "SkilledLegs1", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.08 },
+        { "Item": "SkilledLegs2", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.03 },
+        { "Item": "ArcaneFocus", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.12 },
+        { "Item": "ManaCrystal", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.25 },
+        { "Item": "Void", "MinAmount": 2, "MaxAmount": 3, "Chance": 0.55 },
+        { "Item": "InnocentSoul", "MinAmount": 1, "MaxAmount": 1, "Chance": 0.06 }
+      ]
+    }
+  ]
+}

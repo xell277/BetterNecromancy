@@ -1,0 +1,63 @@
+[
+  {
+    "name": "BetterNecromancy.player.StarterWand",
+    "requires": [
+      {
+        "amount": 4,
+        "type": "planks"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1,
+        "type": "BetterNecromancy.ManaWand"
+      }
+    ]
+  },
+  {
+    "name": "BetterNecromancy.player.CorpseBlock",
+    "requires": [
+      {
+        "amount": 4,
+        "type": "planks"
+      },
+      {
+        "amount": 1,
+        "type": "BetterNecromancy.Void"
+      }
+    ],
+    "results": [
+      {
+        "amount": 4,
+        "type": "BetterNecromancy.CorpseBlock"
+      }
+    ]
+  },
+  {
+    "name": "BetterNecromancy.player.GoldenRitualAltar",
+    "requires": [
+      {
+        "amount": 12,
+        "type": "goldore"
+      },
+      {
+        "amount": 12,
+        "type": "stonebricks"
+      },
+      {
+        "amount": 2,
+        "type": "BetterNecromancy.Void"
+      },
+      {
+        "amount": 2,
+        "type": "BetterNecromancy.Elementium"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1,
+        "type": "BetterNecromancy.GoldenRitualAltar"
+      }
+    ]
+  }
+]

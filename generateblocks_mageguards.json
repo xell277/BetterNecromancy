@@ -1,0 +1,344 @@
+[
+  {
+    "baseType": {
+      "attachBehaviour": [
+        {
+          "cooldownShot": 6,
+          "damage": 60,
+          "hitForce": 9,
+          "id": "guard",
+          "npcType": "BetterNecromancy.MageGuardT1Npc",
+          "onHitAudio": "bn_impact_mana",
+          "onShootAudio": "bn_guard_cast_mana",
+          "range": 44,
+          "shootRequirements": [
+            {
+              "type": "BetterNecromancy.MageGuardCharge"
+            }
+          ],
+          "sleepType": "Day"
+        }
+      ],
+      "categories": [
+        "defense",
+        "magic"
+      ],
+      "colliders": [
+        {
+          "max": [
+            0.5,
+            -0.1,
+            0.15
+          ],
+          "min": [
+            0.2,
+            -0.5,
+            -0.15
+          ]
+        }
+      ],
+      "icon": "./icons/ManaWand.png",
+      "isSolid": false,
+      "lightingTransparency": 220,
+      "maxStackSize": 20,
+      "mesh": "./meshes/slinger.ply",
+      "meshRotationEuler": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "movementCost": 2,
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "neutral"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "BetterNecromancy.MageGuardT1"
+  },
+  {
+    "baseType": {
+      "attachBehaviour": [
+        {
+          "cooldownShot": 6,
+          "damage": 110,
+          "hitForce": 11,
+          "id": "guard",
+          "npcType": "BetterNecromancy.MageGuardT2Npc",
+          "onHitAudio": "bn_impact_spark",
+          "onShootAudio": "bn_guard_cast_spark",
+          "range": 52,
+          "shootRequirements": [
+            {
+              "type": "BetterNecromancy.MageGuardCharge"
+            }
+          ],
+          "sleepType": "Day"
+        }
+      ],
+      "categories": [
+        "defense",
+        "magic"
+      ],
+      "colliders": [
+        {
+          "max": [
+            0.5,
+            -0.1,
+            0.15
+          ],
+          "min": [
+            0.2,
+            -0.5,
+            -0.15
+          ]
+        }
+      ],
+      "icon": "./icons/SparkWand.png",
+      "isSolid": false,
+      "lightingTransparency": 220,
+      "maxStackSize": 20,
+      "mesh": "./meshes/slinger.ply",
+      "meshRotationEuler": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "movementCost": 2,
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "neutral"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "BetterNecromancy.MageGuardT2"
+  },
+  {
+    "baseType": {
+      "attachBehaviour": [
+        {
+          "cooldownShot": 5,
+          "damage": 175,
+          "hitForce": 13,
+          "id": "guard",
+          "npcType": "BetterNecromancy.MageGuardT3Npc",
+          "onHitAudio": "bn_impact_aether",
+          "onShootAudio": "bn_guard_cast_aether",
+          "range": 60,
+          "shootRequirements": [
+            {
+              "type": "BetterNecromancy.MageGuardCharge"
+            }
+          ],
+          "sleepType": "Day"
+        }
+      ],
+      "categories": [
+        "defense",
+        "magic"
+      ],
+      "colliders": [
+        {
+          "max": [
+            0.5,
+            -0.1,
+            0.15
+          ],
+          "min": [
+            0.2,
+            -0.5,
+            -0.15
+          ]
+        }
+      ],
+      "icon": "./icons/MagicWand.png",
+      "isSolid": false,
+      "lightingTransparency": 220,
+      "maxStackSize": 20,
+      "mesh": "./meshes/slinger.ply",
+      "meshRotationEuler": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "movementCost": 2,
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "neutral"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "BetterNecromancy.MageGuardT3"
+  },
+  {
+    "baseType": {
+      "attachBehaviour": [
+        {
+          "cooldownShot": 5,
+          "damage": 260,
+          "hitForce": 16,
+          "id": "guard",
+          "npcType": "BetterNecromancy.MageGuardT4Npc",
+          "onHitAudio": "bn_impact_storm",
+          "onShootAudio": "bn_guard_cast_storm",
+          "range": 68,
+          "shootRequirements": [
+            {
+              "type": "BetterNecromancy.MageGuardCharge"
+            }
+          ],
+          "sleepType": "Day"
+        }
+      ],
+      "categories": [
+        "defense",
+        "magic"
+      ],
+      "colliders": [
+        {
+          "max": [
+            0.5,
+            -0.1,
+            0.15
+          ],
+          "min": [
+            0.2,
+            -0.5,
+            -0.15
+          ]
+        }
+      ],
+      "icon": "./icons/StormWand.png",
+      "isSolid": false,
+      "lightingTransparency": 220,
+      "maxStackSize": 20,
+      "mesh": "./meshes/slinger.ply",
+      "meshRotationEuler": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "movementCost": 2,
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "neutral"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "BetterNecromancy.MageGuardT4"
+  },
+  {
+    "baseType": {
+      "attachBehaviour": [
+        {
+          "cooldownShot": 4,
+          "damage": 420,
+          "hitForce": 19,
+          "id": "guard",
+          "npcType": "BetterNecromancy.MageGuardT5Npc",
+          "onHitAudio": "bn_impact_void",
+          "onShootAudio": "bn_guard_cast_void",
+          "range": 76,
+          "shootRequirements": [
+            {
+              "type": "BetterNecromancy.MageGuardCharge"
+            }
+          ],
+          "sleepType": "Day"
+        }
+      ],
+      "categories": [
+        "defense",
+        "magic"
+      ],
+      "colliders": [
+        {
+          "max": [
+            0.5,
+            -0.1,
+            0.15
+          ],
+          "min": [
+            0.2,
+            -0.5,
+            -0.15
+          ]
+        }
+      ],
+      "icon": "./icons/VoidWand.png",
+      "isSolid": false,
+      "lightingTransparency": 220,
+      "maxStackSize": 20,
+      "mesh": "./meshes/slinger.ply",
+      "meshRotationEuler": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "movementCost": 2,
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "neutral"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "BetterNecromancy.MageGuardT5"
+  },
+  {
+    "baseType": {
+      "attachBehaviour": [
+        {
+          "cooldownShot": 4,
+          "damage": 650,
+          "hitForce": 24,
+          "id": "guard",
+          "npcType": "BetterNecromancy.MageGuardT6Npc",
+          "onHitAudio": "bn_himpact_ritual",
+          "onShootAudio": "bn_guard_cast_ritual",
+          "range": 84,
+          "shootRequirements": [
+            {
+              "type": "BetterNecromancy.MageGuardCharge"
+            }
+          ],
+          "sleepType": "Day"
+        }
+      ],
+      "categories": [
+        "defense",
+        "magic"
+      ],
+      "colliders": [
+        {
+          "max": [
+            0.5,
+            -0.1,
+            0.15
+          ],
+          "min": [
+            0.2,
+            -0.5,
+            -0.15
+          ]
+        }
+      ],
+      "icon": "./icons/RitualWand.png",
+      "isSolid": false,
+      "lightingTransparency": 220,
+      "maxStackSize": 20,
+      "mesh": "./meshes/slinger.ply",
+      "meshRotationEuler": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "movementCost": 2,
+      "needsBase": true,
+      "onPlaceAudio": "woodPlace",
+      "onRemoveAudio": "woodDeleteLight",
+      "sideall": "neutral"
+    },
+    "generateType": "rotateBlock",
+    "typeName": "BetterNecromancy.MageGuardT6"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "BetterNecromancy",
+    "version": "1.1.5",
+    "dllpath": "BetterNecromancy.dll",
+    "compatibleversions": [
+      "0.15.1.0",
+      "0.15.1.1"
+    ],
+    "jsonFiles": [
+      {
+        "fileType": "addNewTypes",
+        "index": -1000000,
+        "relativePath": "types.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": -1000000,
+        "relativePath": "ritualist_npc.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCTypes",
+        "index": -1000000,
+        "relativePath": "mageguards_npc.json"
+      },
+      {
+        "fileType": "generateBlocks",
+        "index": -1000000,
+        "relativePath": "generateblocks_mageguards.json"
+      },
+      {
+        "fileType": "addOrReplacePlayerRecipes",
+        "index": -1000000,
+        "relativePath": "crafting.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "npcType": "pipliz.alchemist",
+        "relativePath": "recipes_alchemist.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "npcType": "pipliz.jobblockcrafter",
+        "relativePath": "recipes_jobblockcrafter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "npcType": "pipliz.stonemason",
+        "relativePath": "recipes_magic_stonemason.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "npcType": "pipliz.woodcutter",
+        "relativePath": "recipes_magic_woodcutter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "npcType": "pipliz.smelter",
+        "relativePath": "recipes_smelter.json"
+      },
+      {
+        "fileType": "addOrReplaceNPCRecipes",
+        "index": -1000000,
+        "npcType": "BetterNecromancy.Ritualist",
+        "relativePath": "recipes_ritualist.json",
+        "limitsUIMapping": [
+          "BetterNecromancy.GoldenRitualAltar"
+        ]
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": -1000000,
+        "relativePath": "localization/en-US/en-US.json"
+      },
+      {
+        "fileType": "addOrOverrideLocalization",
+        "index": -1000000,
+        "relativePath": "localization/de-DE/de-DE.json"
+      },
+      {
+        "fileType": "addOrOverrideTextureMappingEntries",
+        "index": -1000000,
+        "relativePath": "texturemapping.json"
+      }
+    ]
+  }
+]

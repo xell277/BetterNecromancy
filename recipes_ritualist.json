@@ -1,0 +1,38 @@
+[
+  {
+    "cooldown": 180.0,
+    "defaultLimit": 0,
+    "defaultPriority": -10,
+    "name": "BetterNecromancy.ritualist.RitualWand",
+    "npcCraftable": true,
+    "requires": [
+      {
+        "amount": 1,
+        "type": "BetterNecromancy.InnocentSoul"
+      },
+      {
+        "amount": 1,
+        "type": "BetterNecromancy.ManaCrystal"
+      },
+      {
+        "amount": 8,
+        "type": "BetterNecromancy.Adamantine"
+      },
+      {
+        "amount": 12,
+        "type": "BetterNecromancy.Elementium"
+      },
+      {
+        "amount": 8,
+        "type": "BetterNecromancy.Void"
+      }
+    ],
+    "results": [
+      {
+        "amount": 1,
+        "type": "BetterNecromancy.RitualWand"
+      }
+    ],
+    "sortWeight": 9000950
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "data": {
+      "maskColor1": "#000000"
+    },
+    "keyName": "BetterNecromancy.Ritualist",
+    "mesh": "./meshes/jobs/sanctifier.glb",
+    "npcType": "worker",
+    "printName": "Ritualist"
+  }
+]
